@@ -1,0 +1,21 @@
+{
+    "name": "Convai.RestAPI",
+    "rootNamespace": "Convai.RestAPI",
+    "references": [
+        "Convai.Api.Transport",
+        "Convai.Shared.Unity",
+        "Convai.CharacterApi.Contracts",
+        "Convai.CoreApi",
+        "Convai.PlatformApi.Legacy",
+        "Newtonsoft.Json"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
