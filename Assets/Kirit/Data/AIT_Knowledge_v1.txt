@@ -1,0 +1,149 @@
+ARMY INSTITUTE OF TECHNOLOGY, PUNE
+AIT KNOWLEDGE BASE
+Version: 1.0
+
+==================================================
+1. INSTITUTE OVERVIEW
+==================================================
+
+Official Name:
+Army Institute of Technology
+
+Abbreviation:
+AIT
+
+Location:
+Dighi Hills, Pune, Maharashtra, India
+
+Overview:
+Army Institute of Technology (AIT) is a prestigious engineering college established exclusively for the wards of serving and retired Indian Army personnel. The college is affiliated with Savitribai Phule Pune University (SPPU), approved by AICTE, and accredited by NBA and NAAC with an 'A' grade. The institute operates on a 32-acre predominantly residential campus, providing a disciplined yet dynamic environment that prepares students for the modern technological landscape. 
+
+==================================================
+2. HISTORY
+==================================================
+
+AIT was founded in August 1994 by the then Chief of Army Staff, Gen B.C. Joshi, PVSM, AVSM, ADC, under the auspices of the Army Welfare Education Society (AWES). The institute was formally inaugurated by Gen S. Roy Chaudhary, PVSM, ADC, on 24th February 1995. The first batch of BE students successfully graduated in 1998. Since its inception, AIT has built a strong reputation in both academia and corporate placements.
+
+==================================================
+3. ACADEMIC PROGRAMS AND DEPARTMENTS
+==================================================
+
+Computer Engineering
+--------------------
+Offers a 4-year B.E. program focusing on software development, computing systems, and modern tech stacks. It consistently records the highest placement percentages and salary packages at the institute. The department also offers a Ph.D. program.
+
+Information Technology
+----------------------
+A 4-year B.E. program designed to build strong foundations in IT infrastructure, networking, information security, and application development. It shares an exceptional placement record alongside the Computer Engineering branch.
+
+Electronics and Telecommunication Engineering
+----------------------------------------------
+A 4-year B.E. program bridging hardware and software, focusing on communication systems, IoT, embedded systems, and modern electronics. 
+
+Mechanical Engineering
+-----------------------
+A 4-year B.E. program providing deep knowledge in core mechanical systems, manufacturing, and design. It also integrates modern aspects like Robotics and Automation. 
+
+(Note: AIT also offers a B.E. in Robotics and Automation, and an M.Tech in Data Science).
+
+==================================================
+4. ADMISSIONS
+==================================================
+
+Eligibility:
+Admission to AIT's B.E. programs is strictly restricted to the wards of regular/retired Indian Army personnel. Candidates must have passed the 10+2 board examination with Physics, Chemistry, and Mathematics (PCM), securing a minimum of 50% aggregate marks.
+
+Admission Process:
+Admissions are merit-based and determined by the candidate's All India Rank in the JEE Main examination. For M.Tech programs, valid GATE scores are required. Eligible candidates must fill out the AIT application and participate in the centralized counseling/merit list process. 
+
+==================================================
+5. CAMPUS FACILITIES
+==================================================
+
+The 32-acre AIT campus is well-equipped with modern amenities to ensure a comfortable residential learning experience. Facilities include high-speed Wi-Fi, a shopping complex, an on-campus bank and ATM, a medical facility/dispensary, a cafeteria, and a dedicated water purification plant. 
+
+==================================================
+6. HOSTELS
+==================================================
+
+As a predominantly residential college, AIT provides excellent hostel facilities for both male and female students. The hostels foster a close-knit community and are managed with strict yet supportive administrative oversight, ensuring safety, discipline, and a healthy living environment.
+
+==================================================
+7. LIBRARY
+==================================================
+
+AIT features a well-stocked Central Library equipped with a vast collection of engineering textbooks, reference books, national and international journals, and digital resources. It provides a quiet, academic environment with reading rooms that support student research and study.
+
+==================================================
+8. SPORTS AND RECREATION
+==================================================
+
+AIT places a strong emphasis on physical fitness and sportsmanship. The campus boasts an indoor gymnasium and extensive outdoor sports facilities for cricket, football, basketball, and volleyball. The active Sports Club routinely organizes inter-branch and inter-college tournaments.
+
+==================================================
+9. PLACEMENTS
+==================================================
+
+[Last verified: September 2026]
+AIT holds an exceptional placement record, frequently achieving over 90-95% placements for its graduating batches. 
+- Top Recruiters: Microsoft, Google, Morgan Stanley, and other major tech and core companies. 
+- Highest Packages: Frequently cross 50 LPA (recent peaks recorded at 51 LPA and 59 LPA).
+- Median Salary: Generally ranges between 8.9 LPA to 12 LPA.
+
+==================================================
+10. STUDENT CLUBS AND ACTIVITIES
+==================================================
+
+AR/VR Club
+----------
+Officially known as the GDXR (Game Dev & Extended Reality) Club, this highly active student group focuses on game development, Augmented Reality, and Virtual Reality technologies. They are famous for organizing "GENESIS," which has grown into India's largest student-led Game Jam, bringing together game developers nationwide to build projects under real-world industry conditions.
+
+Other Clubs
+-----------
+- Magboard (Magazine & Editorial Board): Publishes the college magazine 'Srijna' and newsletters.
+- Technical Board: Manages tech fests and central technical initiatives.
+- CP Club: Focused on competitive programming.
+- OSS (Open Source Software) Club.
+- ISDF: Information Security & Digital Forensics.
+- Cultural Board: Organizes arts, music, and dance events.
+- E-Cell (Innovation & Entrepreneurship Cell).
+- NSS (National Service Scheme).
+
+==================================================
+11. EVENTS
+==================================================
+
+- VERVE: AIT's flagship annual cultural festival that attracts participation from numerous colleges across Pune and the country.
+- GENESIS: A massive national-level hackathon/game jam hosted by the AR/VR (GDXR) Club.
+- INNERVE & FSOC: Open source and technical events hosted by tech clubs.
+- AIT Alumni Meet: An annual gathering connecting current students with a strong, 1500+ global alumni network.
+
+==================================================
+12. IMPORTANT CAMPUS INFORMATION
+==================================================
+
+- Director: Brig Abhay A Bhat (Note: Always verify current administration).
+- The campus culture is uniquely diverse, drawing students from all states of India due to the Army background of the families, creating a pan-India microcosm.
+- The college maintains a strict anti-ragging policy and emphasizes both technical excellence and holistic personality development.
+
+==================================================
+13. FREQUENTLY ASKED QUESTIONS
+==================================================
+
+Q: What is AIT?
+A: The Army Institute of Technology (AIT) is an undergraduate and postgraduate engineering college located in Pune, established specifically for the children of Indian Army personnel.
+
+Q: Where is AIT located?
+A: The campus is located at Dighi Hills, Pune, Maharashtra, spread across 32 acres of land.
+
+Q: Which engineering branches are offered at AIT?
+A: AIT offers B.E. programs in Computer Engineering, Information Technology, Electronics & Telecommunication Engineering, Mechanical Engineering, and Robotics and Automation. It also offers an M.Tech in Data Science.
+
+Q: Does AIT provide hostel facilities?
+A: Yes, AIT is a predominantly residential campus and provides comprehensive hostel accommodations and mess facilities for its students.
+
+Q: What student clubs are available?
+A: AIT has a vibrant club culture including the Magboard, Technical Board, Cultural Board, GDXR (AR/VR) Club, Competitive Programming Club, Open Source Software Club, E-Cell, and NSS, among others.
+
+Q: What is the AR/VR Club?
+A: The AR/VR Club, known as GDXR, is a dedicated student community for game development and immersive technologies. They host workshops, dev sprints, and the popular national-level game jam called "GENESIS".
