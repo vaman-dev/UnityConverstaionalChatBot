@@ -30,4 +30,5 @@
 # Local recovery/quarantine files
 /.duplicate-assets-quarantine/
 /[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
 
